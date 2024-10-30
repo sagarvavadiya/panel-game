@@ -1,0 +1,28 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris","London","Berlin","Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars","Venus","Jupiter","Mercury"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci","Pablo Picasso","Vincent van Gogh","Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "options": ["Pacific Ocean","Indian Ocean","Atlantic Ocean","Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which country is home to the Great Pyramid of Giza?",
+      "options": ["Egypt","Mexico","China","Greece"],
+      "answer": "Egypt"
+    }
+  ]
+  

@@ -1,0 +1,12 @@
+.footer {
+  padding: 0 5% !important;
+  height: 15vh !important;
+  display: flex !important;
+  justify-content: end !important;
+}
+
+.footerImg {
+  aspect-ratio: 3 !important;
+  width: 12rem !important;
+  height: 4rem !important;
+}

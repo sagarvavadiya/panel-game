@@ -1,0 +1,53 @@
+.hs-student-signup-body {
+  background-color: #140f4b;
+  min-height: 100vh;
+  width: 100vw;
+}
+.hs-student-signup-container {
+  text-align: center;
+  width: 100%;
+  color: white;
+}
+.hs-student-signup-input {
+  /* color: white; */
+  width: 500px;
+  background: white !important;
+  border-radius: 10px;
+  border-color: white;
+  height: 40px;
+  font-size: 18px;
+  padding-left: 20px;
+}
+.hs-student-signup-button {
+  background: linear-gradient(to top, #db481b, #fdbb4f);
+  width: 500px;
+  margin-top: 40px;
+  border-radius: 10px;
+  color: #140f4b;
+  font-size: 20px;
+  font-weight: 800;
+  border: none;
+  height: 40px;
+  cursor: pointer;
+
+  &:hover {
+    cursor: pointer;
+    /* background: linear-gradient(to top, #db481b, #fdbb4f); */
+  }
+}
+
+.hs-signup-title {
+  font-size: 50px;
+}
+.Alert {
+  color: red;
+  margin-top: 2px;
+}
+@media only screen and (max-width: 600px) {
+  .hs-student-signup-input {
+    width: 80%;
+  }
+  .hs-student-signup-button {
+    width: 80%;
+  }
+}

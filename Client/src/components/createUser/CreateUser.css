@@ -1,0 +1,53 @@
+.user-option-body {
+  background-color: #140f4b;
+  min-height: 100vh;
+  width: 100vw;
+}
+.option-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.user-option-img {
+  width: 100px;
+  height: 100px;
+}
+.user-option-img:hover {
+  width: 110px;
+  height: 110px;
+}
+.user-option-img-container {
+  border: 6px solid #fdbb4f;
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  align-items: center;
+  display: flex;
+  background: #00d1ff;
+  justify-content: center;
+  margin: 20px;
+}
+.user-option-title {
+  color: #fdbb4f;
+}
+
+.user-option-main {
+  background-color: #140f4b;
+  width: 100%;
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+.container-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@media only screen and (max-width: 600px) {
+  .option-container {
+    display: block;
+    margin: auto;
+  }
+}
